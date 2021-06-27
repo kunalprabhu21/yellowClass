@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "579750299199",
+    "project_id": "yellowclass-b82b4",
+    "storage_bucket": "yellowclass-b82b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579750299199:android:c0fd640f3031fa513d9a8a",
+        "android_client_info": {
+          "package_name": "yellowclass.flutterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579750299199-vsr7pb7ki45ohh0nr9g337u3sgmcig8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB71oYvy4iMc8hP2h9h5-bKgG9CDRIye8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579750299199-vsr7pb7ki45ohh0nr9g337u3sgmcig8u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
